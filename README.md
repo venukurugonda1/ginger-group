@@ -18,7 +18,7 @@
 
 ## live-link 🔗
 
-<a target="_blank" href="https://ginger-media-yz0x.onrender.com/"><b>https://ginger-media-yz0x.onrender.com/</b></a>
+<a target="_blank" href="https://ginger-group.onrender.com/"><b>https://ginger-group.onrender.com/</b></a>
 
 # main features
 
